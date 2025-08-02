@@ -132,23 +132,23 @@ http://143.44.136.110:6910/001/2/ch00000090990000001127/manifest.mpd?virtualDoma
 https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/master.mpd
 
 
-#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="Sports2",Sony Ten Sports 1
+#EXTINF:-1 tvg-id="Sony Ten 1" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="Sports2",Sony Sports Ten 1 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com//hls/live/2011747/TEN1HD/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="Sports2",Sony Ten Sports 2
+#EXTINF:-1 tvg-id="Sony Ten 2" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="Sports2",Sony Sports Ten 2 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020434/TEN2HD/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="Sports2",Sony Ten Sports 3
+#EXTINF:-1 tvg-id="Sony Ten 3" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="Sports2",Sony Sports Ten 3 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020591/TEN3HD/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony Ten 4" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="Sports2",Sony Ten Sports 4
+#EXTINF:-1 tvg-id="Sony Ten 4" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="Sports2",Sony Sports Ten 4 HD
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020589/ten4hd/master.m3u8
 
-#EXTINF:-1 tvg-id="Sony Ten 5" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="Sports2",Sony Ten Sports 5
+#EXTINF:-1 tvg-id="Sony Ten 5" tvg-name="" tvg-logo="https://raw.githubusercontent.com/quuen2024/logobaru/refs/heads/queen/SonyTen.png" group-title="Sports2",Sony Sports Ten 5
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://tataplay.slivcdn.com/hls/live/2020593/SONYSIXHD/master.m3u8
 
