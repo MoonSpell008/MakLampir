@@ -100,17 +100,10 @@ https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
 
 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sweet-night-1d1d.worst.workers.dev/play?id=9183&type=drm
-#https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
-#https://sweet-night-1d1d.worst.workers.dev/?id=9183&type=dash
-
-
-#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="Sports2",Premier League 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=e3e81ff40bc3176175b4be24a09b4701:d9ea434e89f07b3b999407110795f7ca
+#EXTINF:-1 tvg-id="Premier League" tvg-logo="https://raw.githubusercontent.com/mimipipi22/iptv-scraper/refs/heads/main/logos/premier-league-tv.jpg" group-title="Sports2",Premier League
 https://sweet-night-1d1d.worst.workers.dev/?id=9353&type=dash
 
 
