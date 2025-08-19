@@ -1,0 +1,133 @@
+#EXTM3U  x-tvg-url="https://raw.githubusercontent.com/AqFad2811/epg/main/epg.xml" refresh="1440" max-conn="1" refresh="24"
+
+#EXTINF:-1 group-title="MyTV" group-logo="https://soyacincau.com/wp-content/uploads/2021/08/210817-astro25-channel-hero.jpg" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV1-640x358.png",TV1 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv1/playlist.m3u8?id=1|Referer=https://rtm-player.glueapi.io/
+
+
+EXTINF:-1 group-title="MyTV" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV1-640x358.png", TV1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=912760c409eb5aff3e060422c502f410:bea2d0f89fb3fbafa1fc9f34ba8734a6
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/711/default_ott.mpd
+
+
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV2-200x112.png",TV2 
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv2/playlist.m3u8?id=2|Referer=https://rtm-player.glueapi.io/
+
+
+EXTINF:-1 group-title="MyTV" tvg-logo="https://www.tvmalaysia.org/wp-content/uploads/2023/04/RTM-TV2-200x112.png", TV2 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=4f885481fe053e544096532c1dcb9710:24a9b17859862887f28f63c7c29bcaa5
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp02-playback.astro.com.my/dash-wv/linear/5027/default_primary.mpd
+
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#EXTVLCOPT:Host=tonton-live-switch-ssar.akamaized.net
+#EXTHTTP:{"Origin":"https://tonton-live-sg3.akamaized.net"}
+#EXTVLCOPT:http-referrer=https://tonton-live-sg3.akamaized.net/
+https://mifntechnology.github.io/siaranMy/channels/Tv3/index.m3u8
+
+
+EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live03.mpd
+
+
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
+
+
+EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" ,TV OKEY
+#EXTVLCOPT:network-caching=1000 
+#EXTVLCOPT:http-referrer=https://d25tgymtnqzu8s.cloudfront.net 
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
+
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7f/TV_Okey_RTM.png" ,TV OKEY
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"yEdSMcCdwbY5iGl2tvx1dQ", "kid":"YPICsWQH/t2ONpwyr1fdEA" } ], "type":"temporary" }
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/5072/default_ott.mpd
+
+
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9e/TV6_%28Malaysia_2021%29.svg/revision/latest/scale-to-width-down/200?cb=20210327202814" ,TV6
+https://d25tgymtnqzu8s.cloudfront.net/smil:tv6/playlist.m3u8?id=6|Referer=https://rtm-player.glueapi.io/
+
+
+#EXTINF:-1  group-title="MyTV" tvg-logo="https://didik.tv/images/logotv2.png",DidikTV KPM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e509735b5f89750d42ace2410ead7210:1726083509d570b5de4730ab9f338cc3
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/707/default_ott.mpd
+
+
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png",8TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"BW4eSVc9LK7ly0/nj4xPPQ", "kid":"qcYZB07TjCDiWtNsPFfBDA" } ], "type":"temporary" }
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live08.mpd
+
+EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/8TV_Chinese.png/220px-8TV_Chinese.png",8TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=0cb7980e9d1d8957f9a293ed96342410:11da1ad368d0cacffe4824b6b35e22b7
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/911/default_ott.mpd
+
+
+EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png",TV9
+https://tonton-live-ssai.akamaized.net/live/2020783a-0303-401a-9c92-b7c3c9108c0b/cmaf.isml/.m3u8
+
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png",TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"Zfavh1DSSyMNkbmEI3rB5A", "kid":"HfqKZFr0HoPFIL3fkTk0yg" } ], "type":"temporary" }
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live09.mpd
+
+EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ab/TV9_Malaysia_Logo_2021.png",TV9
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=27828727f0a3a0b4fbc668378ccf8c10:958e9cb7389e20948de5a542d2729ecf
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/705/default.mpd
+
+EXTINF:-1 group-title="MyTV" tvg-logo="https://user-images.githubusercontent.com/85995579/128817749-0901f1fa-a6e5-4c6f-9207-c72365d9225d.png",Awesome TV
+https://222861.global.ssl.fastly.net/6698cc14fa04165068a80345/live_e5f0c8504d8b11efbacf2feeebc6c76f/index.m3u8
+
+
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/ms/d/da/Logo_TV_Alhijrah.png" ,Al-Hijrah
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=41a42fb5af457501c11bb9b158d5a110:57a8d6f9e3832887db18ea6071118736 
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+https://linearjitp-playback.astro.com.my/dash-wv/linear/1113/default_ott.mpd
+
+
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3d/Logo_Berita_RTM.png" ,BERITA RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:berita/playlist.m3u8?id=5
+
+
+#EXTINF:-1  group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b2/Sukan_RTM_1_April.png",SUKAN RTM
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4|Referer=https://rtm-player.glueapi.io/
+
+
+#EXTINF:-1 group-title="MyTV" tvg-logo="https://s3.tvstv.my/wp-content/uploads/2024/03/tvs-logo-reduced.png" ,TVS
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=c3e956b38ae993be1494c7cfa17b1110:55ccaee886b340dd901f4bf8dd9d3a6a
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/5021/default_ott.mpd
+
+
+#EXTINF:-1  group-title="MyTV" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/160_144.png" group-title="",BERNAMA
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=1406bbf218ca14f967034fcf4abf7710:39a27aa2cc84a29b665fcc4dbf9c54b6
+#KODIPROP:inputstream.adaptive.stream_headers=referer=https://astrogo.astro.com.my//&user-agent=Mozilla/5.0 (Linux; Android 10; MI 9 Build/QKQ1.190825.002; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.58 Mobile Safari/537.36
+http://linearjitp-playback.astro.com.my/dash-wv/linear/1114/default_ott.mpd
+
+
+
+
+
+
+
