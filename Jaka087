@@ -33,14 +33,14 @@ EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"J6L3HYe/XrEFrwlvtmBdlw", "kid":"Ov4w7k6iSmf+Wi7wboPbCw" } ], "type":"temporary" }
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live03.mpd
-
+#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
 
 #EXTINF:-1 group-title="MyTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f5/TV3_%28Malaysia%29.svg/2560px-TV3_%28Malaysia%29.svg.png",TV3
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"X842T7xEmYVll7GalvRGSA", "kid":"O8Pw5Riu2S6AqYEY5bwsEA" } ], "type":"temporary" }
-#EXTVLCOPT:http-user-agent=User-Agent: Mozilla/5.0 (Linux; Android 11; Xper!a 5 Build/mFjLTNcIil8fCh0eXBlIT1cIn1cImF1ZGlvXCIpIn0.BkWDujdfuYgIuoHodsw1Kshx0h6BhW4egKD8ymY4e2s; wv) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.7.1675.48 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; Philips Google TV TA7 Build/RTM5.220609.199; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/138.0.7204.179 Mobile Safari/537.36
 https://linearjitp-playback.astro.com.my/dash-wv/linear/809/default_primary.mpd
 
 
