@@ -103,7 +103,7 @@ EXTINF:-1 tvg-id="Eurosport" tvg-name="Eurosport" tvg-logo="http://epg.51zmt.top
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.19.1 (Linux; Android 15.0.0;) ExoPlayerLib/2.19.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport1.jpg" group-title="SPORTS2",EUROSPORT 1
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Eurosport_1_Spain.png" group-title="SPORTS2",EUROSPORT 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -111,7 +111,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 
-#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://mimipipi22.github.io/logo/antik/eurosport2.jpg" group-title="SPORTS2",EUROSPORT 2
+#EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Eurosport_2_Spain.png" group-title="SPORTS2",EUROSPORT 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
