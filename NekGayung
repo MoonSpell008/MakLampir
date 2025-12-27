@@ -410,6 +410,11 @@ https://times-ott-live.akamaized.net/romedynow_wv_drm/index.mpd
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star_Movies_India.jpg/revision/latest?cb=20241115114159" group-title="Movies2",STAR MOVIES
 http://66.102.120.18:8000/play/a021/index.m3u8
 
+#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://m.media-amazon.com/images/G/01/LCXO_Station_Logos/miramax._SL170_FMpng_.png",Miramax Movie Channel
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"5e08a6933238d3fb585c00a7d95e896c":"2d55d1208eaeabcc57e3b7b92c4e9f09"}
+https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
+
 #EXTINF:-1 group-title="MOVIES2", Movie Pax US
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
