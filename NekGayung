@@ -76,7 +76,7 @@ https://fta4-cdn-flr.visionplus.id/out/v1/873c24d3946048f68e459250f1d2fd98/index
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://mimipipi22.github.io/logo/entertainment/allplayent.jpg" group-title="IndoTVAja",ALLPLAY ENT
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/m3uzone/logo/main/AllPlay_logo.png" group-title="IndoTVAja",ALLPLAY ENT
 https://alibaba-cdn.cdnpub-maxstream.com/atm/DASH/useeprime/manifest.mpd
 https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
@@ -84,10 +84,10 @@ https://cdn10jtedge.indihometv.com/atm/DASH/useeprime/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a04c73e95eeb411dabcba8c35a5a58e8:3f9195dc468d3372f69c6bec5bfa75bb
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://mimipipi22.github.io/logo/movies/imc.jpg" group-title="IndoTVAja",IMC
+#EXTINF:-1 tvg-id="IMC.id" tvg-name="IMC" tvg-logo="https://i.postimg.cc/RhrVvp29/4r2D8xN.png" group-title="IndoTVAja",IMC
 https://fta3-cdn-flr.visionplus.id/out/v1/65432a4c12ca4a52abf473a0e41d7c7e/index.mpd
 
-#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://mimipipi22.github.io/logo/movies/flik.jpg" group-title="IndoTVAja",FLIK
+#EXTINF:-1 tvg-id="Flik.id" tvg-name="Flik" tvg-logo="https://yt3.googleusercontent.com/ytc/AIdro_m0IINZfMbabHeHw7WwH1l5nU8CkC_qOA_Rj6IYX4cVzw=s900-c-k-c0x00ffffff-no-rj" group-title="IndoTVAja",FLIK
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
