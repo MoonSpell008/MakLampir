@@ -426,12 +426,12 @@ http://66.102.120.18:8000/play/a021/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"5e08a6933238d3fb585c00a7d95e896c":"2d55d1208eaeabcc57e3b7b92c4e9f09"}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 
-#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://static.wikia.nocookie.net/fictionaltvstations/images/d/dd/HBO.png/revision/latest?cb=20200604054505", HBO US
+#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO.png", HBO US
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
-#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://logodix.com/logo/1111226.png",HBO Zone US
+#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://p1.hiclipart.com/preview/989/192/994/tv-channel-icons-hbo-white-hbo-logo-png-clipart-thumbnail.jpg",HBO Movies US
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
