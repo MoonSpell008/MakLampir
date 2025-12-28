@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz" refresh="1440"
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ID1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_UK1.xml.gz,https://epgshare01.online/epgshare01/epg_ripper_US2.xml.gz" refresh="1440"
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=39c4dc6704cf4ceea2fd4863b88d8a7d:4e9d7954c2ff46759289da4fc9f018ea
@@ -120,7 +120,7 @@ https://dash2.antik.sk/stream/nvidia_eurosport1/playlist_cenc.mpd
 https://dash2.antik.sk/stream/nvidia_eurosport2/playlist_cenc.mpd
 
 
-#EXTINF:-1 group-title="SPORTS2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png",FS1
+#EXTINF:-1 group-title="SPORTS2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png",FS1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5466ebd70704bdeb657f0abf3c5ca4ef:bdd79b72d8e48ed483aa623cc38a8a16
@@ -409,7 +409,7 @@ https://times-ott-live.akamaized.net/mnxhd_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=40f019b86241d23ef075633fd7f1e927:058dec845bd340178a388edd104a015e
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="Movies2",Movies Now
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co/JCjgTd5/Movies-Now.png" group-title="Movies2",Movies Now HD
 https://times-ott-live.akamaized.net/moviesnow_wv_drm/index.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -426,12 +426,12 @@ http://66.102.120.18:8000/play/a021/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"5e08a6933238d3fb585c00a7d95e896c":"2d55d1208eaeabcc57e3b7b92c4e9f09"}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 
-#EXTINF:-1 group-title="MOVIES2" tvg-id="" tvg-chno="" tvg-logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO.png", HBO US
+#EXTINF:-1 group-title="MOVIES2" tvg-id="" tvg-chno="" tvg-logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO.png", HBO West
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
 
-#EXTINF:-1 group-title="MOVIES2" tvg-id="" tvg-chno="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a81c6c5-42ab-4756-b565-0f62812ab86a/diclqu1-292bf47b-1c8d-47a1-9a85-5e667a83821b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wYTgxYzZjNS00MmFiLTQ3NTYtYjU2NS0wZjYyODEyYWI4NmEvZGljbHF1MS0yOTJiZjQ3Yi0xYzhkLTQ3YTEtOWE4NS01ZTY2N2E4MzgyMWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OIanTwmrMI_tyUuW__YvSFDZeTD92aTGWr4aOqXoQ5o",HBO Movies US
+#EXTINF:-1 group-title="MOVIES2" tvg-id="" tvg-chno="" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/0a81c6c5-42ab-4756-b565-0f62812ab86a/diclqu1-292bf47b-1c8d-47a1-9a85-5e667a83821b.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi8wYTgxYzZjNS00MmFiLTQ3NTYtYjU2NS0wZjYyODEyYWI4NmEvZGljbHF1MS0yOTJiZjQ3Yi0xYzhkLTQ3YTEtOWE4NS01ZTY2N2E4MzgyMWIucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.OIanTwmrMI_tyUuW__YvSFDZeTD92aTGWr4aOqXoQ5o",HBO Zone HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0b380bec87af5c16ee145bbf8cd7d65e:edcb65d1269bd76f166d6bc56114211f
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/u7xfabrc5b/out/v1/67371e988d6649afbde43ba1e9747550/cenc.mpd
@@ -464,13 +464,13 @@ https://live-crave.video.9c9media.com/ca12f7725431efd77040e13a89b5f97ec07300cf17
 #KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:65c32ada65548203a3683d5d37dd3a06
 https://live-crave.video.9c9media.com/b6460882fd23bc4b6c39f67a79320dc2884198101756624052136/ff/f/crave/crave4/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/2560px-Starz_Cinema_Logo_2022.svg.png",STARZ Cinema
+#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/2560px-Starz_Cinema_Logo_2022.svg.png",STARZ Cinema HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee
 https://live-crave.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef9474581754944303887/fe/f/crave/starz1/manifest.mpd?u=li
 
-#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/d0/Starz_2022.png/revision/latest?cb=20231203203539",STARZ 
+#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/d0/Starz_2022.png/revision/latest?cb=20231203203539",STARZ HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
