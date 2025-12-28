@@ -426,7 +426,7 @@ http://66.102.120.18:8000/play/a021/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"5e08a6933238d3fb585c00a7d95e896c":"2d55d1208eaeabcc57e3b7b92c4e9f09"}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 
-#EXTINF:-1 group-title="MOVIES2" tvg-id="" tvg-chno="" tvg-logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO.png", HBO West
+#EXTINF:-1 group-title="MOVIES2" tvg-id="" tvg-chno="" tvg-logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO.png", HBO East
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
@@ -464,13 +464,13 @@ https://live-crave.video.9c9media.com/ca12f7725431efd77040e13a89b5f97ec07300cf17
 #KODIPROP:inputstream.adaptive.license_key=a7242a7026ff45609114ee1f3beb34dc:65c32ada65548203a3683d5d37dd3a06
 https://live-crave.video.9c9media.com/b6460882fd23bc4b6c39f67a79320dc2884198101756624052136/ff/f/crave/crave4/manifest.mpd
 
-#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/2560px-Starz_Cinema_Logo_2022.svg.png",STARZ Encore (Pasific)
+#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/2560px-Starz_Cinema_Logo_2022.svg.png",STARZ Edge HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5ebcf53fd1794237aa02af52413e0c2a:bd2f5d20887507da6f26401b1d95aeee
 https://live-crave.video.9c9media.com/59c2df870a1e8c5b14c4f5ed7e951e1cef9474581754944303887/fe/f/crave/starz1/manifest.mpd?u=li
 
-#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/d0/Starz_2022.png/revision/latest?cb=20231203203539",STARZ HD (Pasific)
+#EXTINF:-1 group-title="MOVIES2" tvg-logo="https://static.wikia.nocookie.net/dreamlogos/images/d/d0/Starz_2022.png/revision/latest?cb=20231203203539",STARZ Encore HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5389bf9aa04e467aac818fac7138f8f4:ebb8e28d9081a462015de790e76759f0
