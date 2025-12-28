@@ -7,7 +7,7 @@
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 https://atemecdnbalancer-voe.sysln.id/live/eds/TVRINasional/mediampd/TVRINasional.mpd
 
-#EXTINF:-1 group-title="IndoTVAja" tvg-logo="https://i.ibb.co/BKVwKxn3/RCTI.png",RCTI
+#EXTINF:-1 group-title="IndoTVAja" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC5U9V20sFBd_VlQSJNEjNEU9Ukwi5LQ1WVSOi9Je55XlsR9EBzRauuHUzHT_-b1mc6nCCDaxEHMgkeEQPvzQ0ogquRbE6BsOenEpvaxI285m_uR4KYQBxdZl7N5D9RjY3aqbVdFMkc2E/w1200-h630-p-k-no-nu/Logo+RCTI.png",RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d386001215594043a8995db796ad9e9c:3404792cb4c804902acdc6ca65c1a298
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
