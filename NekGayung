@@ -426,7 +426,7 @@ http://66.102.120.18:8000/play/a021/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"5e08a6933238d3fb585c00a7d95e896c":"2d55d1208eaeabcc57e3b7b92c4e9f09"}
 https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/jkep4tcfuk/out/v1/13282695f8bb45ae9912e9321bba21b8/cenc.mpd
 
-#EXTINF:-1 group-title="MOVIES2" tvg-id="" tvg-chno="" tvg-logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO.png", HBO2 HD
+#EXTINF:-1 group-title="MOVIES2" tvg-id="" tvg-chno="" tvg-logo="https://dn721604.ca.archive.org/0/items/logo.brootv_hbo/HBO.png", HBO Comedy HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=217624a3983b3593ca7d1f3b01042d4f:fecaa3486d9deef3f7f0e1a95b662cb7
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/f6ns8qsqde/out/v1/0827e077a8224107a1e6137627cc8198/cenc.mpd
