@@ -448,7 +448,7 @@ EXTINF:-1 tvg-id="HBO Signature HD id" tvg-name="HBOSignature1" tvg-logo="https:
 https://atemecdnbalancer-voe.sysln.id/live/eds/HBOSignatureHD/mediampd/HBOSignatureHD.mpd
 
 
-#EXTINF:-1 tvg-id="HBO Signature HD id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movies2", HBO Signature HD
+EXTINF:-1 tvg-id="HBO Signature HD id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="Movies2", HBO Signature HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a06ca6c275744151895762e0346380f5:559da1b63eec77b5a942018f14d3f56f
