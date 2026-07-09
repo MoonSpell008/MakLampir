@@ -1038,6 +1038,21 @@ http://vocotv.pro/live/nowak1/nowak1/253199.m3u8
 #KODIPROP:inputstream.adaptive.license_key={"a15171a08a7c09585d6588b49d031252":"33270126ea0cbba11461c2189031f2d3"}
 https://otte.live.fly.ww.aiv-cdn.net/IAD/clients/dash/enc/fuumlkaqoa/out/v1/a8db1b7acf8c48a48dc34a6cd5df45a1/cenc.mpd
 
+#EXTINF:-1 tvg-id="Amazon.US.SundanceTV" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/e011deb22c4bb5b3959f8e438e3703857c40d891965ff06cd5108cee888de3fc._SL170_FMpng_.png" group-title="entertainment2",Sundance TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"60da54dad6804a8895d80f79bd2ef324":"528d95c9ca726d0602c28f9366a08069"}
+https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/a2x5qulu66/out/v1/b7749a4e6d41479ca533f4d7c01d7675/cenc.mpd
+
+#EXTINF:-1 tvg-id="Amazon.US.BBCAmerica" tvg-logo="https://m.media-amazon.com/images/S/pv-target-images/02fc1e9f87d890307bc233d06dca2c4c83d8741ed43d95ed1f781d10fe21b356._SL170_FMpng_.png" group-title="ENTERTAINMENT2",BBC America
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"eebffffd7464b681ba44d0061859742f":"0dc1888c2b282fb8ba187b3dbd2e5e88"}
+https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/xtxdupopeb/out/v1/bdbac5c5affd4756bfe13f9dfb01f764/cenc.mpd
+
+#EXTINF:-1 tvg-id="BBCEntertainment" group-title="ENTERTAINMENT2" tvg-logo="",BBC Entertainment
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
+https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd
+
 #EXTINF:-1 group-title="ENTERTAINMENT2", unknown
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
