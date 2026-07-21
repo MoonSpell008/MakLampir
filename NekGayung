@@ -1092,6 +1092,14 @@ http://vocotv.pro/live/nowak1/nowak1/365.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT2",USA Network HD
 http://40.160.24.55/USA_NETWORK/index.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT2",NBC
+http://stream.cammonitorplus.net/1785/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsChicago.us@SD" group-title="ENTERTAINMENT2",NBC Sports
+http://206.212.244.63/6141/index.m3u8
+
+#EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" group-title="ENTERTAINMENT2",NBC Sports NOW
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 
 #EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png?worldtv2" group-title="ENTERTAINMENT2", Warner
 #KODIPROP:inputstream.adaptive.license_type=clearkey
