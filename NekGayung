@@ -1079,18 +1079,50 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dxhd2i96mn/
 #EXTINF:-1 group-title="ENTERTAINMENT2", FX HD
 http://23.237.104.106:8080/USA_FX/index.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT2", FX HD
+http://tvsen7.aynascope.net/fx/index.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT2", FXX HD
 http://23.237.104.106:8080/USA_FXX/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT2",Syfy HD
 http://23.237.104.106:8080/USA_SYFY/index.m3u8
 
-
-EXTINF:-1 group-title="ENTERTAINMENT2",TNT HD
-http://vocotv.pro/live/nowak1/nowak1/365.m3u8
-
 #EXTINF:-1 group-title="ENTERTAINMENT2",USA Network HD
 http://40.160.24.55/USA_NETWORK/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",USA Network HD
+http://206.212.244.63/168/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",LMN HD
+http://40.160.24.53/LMN/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",Paramount Network HD
+http://206.212.244.63/137/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",Starz HD
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",Starz Cinema HD
+http://23.237.104.106:8080/USA_STARZ_CINEMA/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",Starz Comedy HD
+http://23.237.104.106:8080/USA_STARZ_COMEDY/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",Starz Kids HD
+http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",E! Entertainment Television HD
+http://23.237.104.106:8080/USA_E/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",MTV - Music Television HD
+http://206.212.244.63/115/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",MTV2: Music Television HD
+http://198.58.104.90:8989/mtv2/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",MTVLive
+http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT2",NBC
 http://stream.cammonitorplus.net/1785/index.m3u8
