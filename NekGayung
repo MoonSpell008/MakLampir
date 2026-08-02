@@ -1055,7 +1055,7 @@ https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/a2x5qulu66/out/v1/b774
 #KODIPROP:inputstream.adaptive.license_key={"eebffffd7464b681ba44d0061859742f":"0dc1888c2b282fb8ba187b3dbd2e5e88"}
 https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/xtxdupopeb/out/v1/bdbac5c5affd4756bfe13f9dfb01f764/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT2",Showtime Showcase HD 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT2",Showcase
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
 https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
@@ -1070,6 +1070,9 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7dc3abc5027b234af5af237d9ba1fb16:2542140d96078c87eca2a2b2fd7529aa
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
+
+#EXTINF:-1 tvg-id="Flix.us@East" group-title="ENTERTAINMENT2",Flix 
+https://gpuserver3.tier1streams.com/FLIX/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT2", FX HD
 http://23.237.104.106:8080/USA_FX/index.m3u8
@@ -1094,6 +1097,18 @@ http://40.160.24.53/LMN/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT2",Paramount Network HD
 http://206.212.244.63/137/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime.us@West" group-title="ENTERTAINMENT2",Showtime
+http://40.160.24.55/SHOWTIME_WEST/index.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeExtreme.us@East" group-title="ENTERTAINMENT2",Showtime Extreme HD
+http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+
+#EXTINF:-1 tvg-id="Showtime2.us@East" group-title="ENTERTAINMENT2",Showtime 2 HD
+http://40.160.24.55/SHOWTIME_2/index.m3u8
+
+#EXTINF:-1 tvg-id="ShowtimeNext.us@East" group-title="ENTERTAINMENT2",Showtime Next HD
+http://40.160.24.55/SHOWTIME_NEXT/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT2",Starz HD
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
