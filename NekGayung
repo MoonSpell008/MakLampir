@@ -1055,7 +1055,7 @@ https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/a2x5qulu66/out/v1/b774
 #KODIPROP:inputstream.adaptive.license_key={"eebffffd7464b681ba44d0061859742f":"0dc1888c2b282fb8ba187b3dbd2e5e88"}
 https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/xtxdupopeb/out/v1/bdbac5c5affd4756bfe13f9dfb01f764/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT2",Showcase
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT2",Showcase Canada HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
 https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa5/corus-showcase.isml/.mpd
