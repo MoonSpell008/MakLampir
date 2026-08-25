@@ -1153,9 +1153,8 @@ https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/gyczo3tdxu/out/v1/4e9f
 #KODIPROP:inputstream.adaptive.license_key={"59a51164c2c915352f04066a06f6e807":"eba5cc362d1d63c0fe6460febca0fd11"}
 https://a148aivottlinear-a.akamaihd.net/OTTB/PDX/clients/dash/enc/0f5clvxn6o/out/v1/d5a953bb19734fa3baa1776266887fcb/cenc.mpd
 
-#EXTINF:-1 group-title="ENTERTAINMENT2",CW
+EXTINF:-1 group-title="ENTERTAINMENT2",CW
 https://gpuserver3.tier1streams.com/CW/index.m3u8
-
 
 #EXTINF:-1 tvg-id="Amazon.US.IFC" tvg-logo="" group-title="ENTERTAINMENT2",IFC HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1187,6 +1186,9 @@ https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/
 #KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd
 
+#EXTINF:-1 group-title="ENTERTAINMENT2", Bravo HD
+http://tvsen7.aynascope.net/bravo/index.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT2", Fuse HD
 http://23.237.104.106:8080/USA_FUSE/index.m3u8
 
@@ -1209,7 +1211,7 @@ http://23.237.104.106:8080/USA_SYFY/index.m3u8
 http://40.160.24.55/USA_NETWORK/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT2",USA Network HD
-http://206.212.244.63/168/index.m3u8
+https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 
 #EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel HD
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
@@ -1219,6 +1221,9 @@ http://23.237.104.106:8080/USA_LMN/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT2",ION Television HD
 http://23.237.104.106:8080/USA_ION/index.m3u8
+
+#EXTINF:-1 group-title="ENTERTAINMENT2",Vice HD
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
 #EXTINF:-1 tvg-id="Showtime.us@West" group-title="ENTERTAINMENT2",Showtime
 http://40.160.24.55/SHOWTIME_WEST/index.m3u8
@@ -1248,7 +1253,7 @@ http://23.237.104.106:8080/USA_STARZ_FAMILY/index.m3u8
 http://23.237.104.106:8080/USA_E/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT2",MTV - Music Television HD
-http://206.212.244.63/115/index.m3u8
+https://tvsen6.aynaott.com/mtv/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT2",MTV2: Music Television HD
 http://198.58.104.90:8989/mtv2/index.m3u8
