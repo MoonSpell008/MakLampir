@@ -1213,7 +1213,7 @@ http://40.160.24.55/USA_NETWORK/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT2",USA Network HD
 https://tvsen3.aynaott.com/dbbcY6NG/index.m3u8
 
-#EXTINF:-1 tvg-id="HallmarkChannel.us@East",Hallmark Channel HD
+#EXTINF:-1 group-title="ENTERTAINMENT2",Hallmark Channel HD
 http://23.237.104.106:8080/USA_HALLMARK/index.m3u8
 
 #EXTINF:-1 group-title="ENTERTAINMENT2",LMN HD
