@@ -1196,6 +1196,12 @@ https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/a2x5qulu66/out/v1/b774
 #KODIPROP:inputstream.adaptive.license_key={"eebffffd7464b681ba44d0061859742f":"0dc1888c2b282fb8ba187b3dbd2e5e88"}
 https://otte.live.fly.ww.aiv-cdn.net/PDX/clients/dash/enc/xtxdupopeb/out/v1/bdbac5c5affd4756bfe13f9dfb01f764/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT2",REELZChannel HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2312fd39721560ea14f98caf3464195e:93713bb73be2d8aedf3eeb898850e7d5
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/clients/dash/enc/dhdemvb6ff/out/v1/2dbabadc0d204aa9aad2c2e5d29af5c0/cenc.mpd
+
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT2",Showcase Canada HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c99d8404fee24f907870cbf212924967:03591856cc3dd05a1e297de8ecd422f8
@@ -1206,7 +1212,7 @@ https://live.corusdigitaldev.com/groupd/live/376c96cd-193f-46d1-a2b6-7c2b78cb0aa
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="ENTERTAINMENT2",BBC FIRST
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/dxhd2i96mn/out/v1/c622abb40a8143d08135f5d8a5fccdc9/cenc.mpd
 
-#EXTINF:-1 tvg-id="BBCEntertainment" group-title="ENTERTAINMENT2" tvg-logo="",BBC Dinos 24/7
+#EXTINF:-1 tvg-id="BBCEntertainment" group-title="ENTERTAINMENT2" tvg-logo="",BBC Entertain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=de6c62edc50564a1bcd57bd452e00dec:5587a0221df02bc10bcc80f8fc1fe5f4
 https://otte.live.fly.ww.aiv-cdn.net/sin-nitro/live/clients/dash/enc/nnhx4xadfk/out/v1/b716a65abc9d41cb8330ac655c098106/cenc.mpd
@@ -1247,20 +1253,26 @@ http://23.237.104.106:8080/USA_LMN/index.m3u8
 #EXTINF:-1 group-title="ENTERTAINMENT2",ION Television HD
 http://23.237.104.106:8080/USA_ION/index.m3u8
 
+#EXTINF:-1 group-title="ENTERTAINMENT2",ION Mystery
+https://live-manifest.production-public.tubi.io/live/f1a3d6ca-6a7e-453b-8e89-dc06a46c870c/playlist.m3u8
+
 #EXTINF:-1 group-title="ENTERTAINMENT2",Vice HD
 http://23.237.104.106:8080/USA_VICETV/index.m3u8
 
-#EXTINF:-1 tvg-id="Showtime.us@West" group-title="ENTERTAINMENT2",Showtime
-http://40.160.24.55/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Showtime Bet" tvg-logo="" group-title="ENTERTAINMENT2",Sho X Bet HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/112.ts
+
+#EXTINF:-1 tvg-id="Showtime.us@West" group-title="ENTERTAINMENT2",Showtime Showcase HD
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/118.ts
 
 #EXTINF:-1 tvg-id="ShowtimeExtreme.us@East" group-title="ENTERTAINMENT2",Showtime Extreme HD
-http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/113.ts
 
 #EXTINF:-1 tvg-id="Showtime2.us@East" group-title="ENTERTAINMENT2",Showtime 2 HD
-http://40.160.24.55/SHOWTIME_2/index.m3u8
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/111.ts
 
 #EXTINF:-1 tvg-id="ShowtimeNext.us@East" group-title="ENTERTAINMENT2",Showtime Next HD
-http://40.160.24.55/SHOWTIME_NEXT/index.m3u8
+http://51.79.81.69:8080/live/tVoIdcGo63/3k9huT771I/117.ts
 
 #EXTINF:-1 group-title="ENTERTAINMENT2",Starz HD
 http://23.237.104.106:8080/USA_STARZ/index.m3u8
@@ -1288,11 +1300,6 @@ http://23.237.104.106:8080/USA_MTV_LIVE/index.m3u8
 
 #EXTINF:-1 tvg-id="NBCSportsNOW.us@SD" group-title="ENTERTAINMENT2",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-
-#EXTINF:-1 tvg-logo="https://geo.edge.pontiscloud.com:9002/images/22/CH_LOGO/160/160/0/0/14633187073787.png?worldtv2" group-title="ENTERTAINMENT2", Warner
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a62d210f0f907a0ebfb84a790d42780b:590779be25e38a41d817f6ad13f5b070
-https://nog-live1-ott.izzigo.tv/5/out/u/dash/WARNERHD/default.mpd
 
 #EXTINF:-1 tvg-logo="" group-title="ENTERTAINMENT2", ITV4 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 12; sti6140d360 Build/QT) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 TV Safari/537.36
