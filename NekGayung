@@ -446,9 +446,14 @@ https://otte.live.fly.ww.aiv-cdn.net/pdx-nitro/live/clients/dash/enc/wjeweupwyc/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=308006101c8fd0262c0f529319b9c127:37683aadc75b1450efa82d62c647984d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/lk795c1545411843.png" group-title="SPORTS2",One Fight
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/league/badge/lk795c1545411843.png" group-title="SPORTS2",One Championship
 https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi2d1c/out/v1/a5b9b32dafd5499688240287ef8c9b90/cenc.mpd
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS2",Paramount+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1afc5f853984602e315ac4fcc70b115d:54966e95b07c30ad7e41b25d50d41bb1
+https://bia-cf.live.pv-cdn.net/iad-nitro/live/dash/enc/0q2dyjycdn/out/v1/075b9fddd55b4fc481c9ad8c73d1fc81/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://images.fubo.tv/channel-config-ui/station-logos/on-dark/fubosportsnetwork_logo_white.png?ch=width&auto=format%2Ccompress" group-title="SPORTS2", FUBO SPORTS 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
