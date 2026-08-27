@@ -901,16 +901,10 @@ EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_HD.png" group-title="Movies2", Star Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6ac6943751e558b181da32727f03dff7:f36e5cd48252bcd0fcda2bfe21f5b365
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6
-https://jtvp.8088yyy.workers.dev/bpk-tv/Star_Movies_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+http://vpn.line-activation.xyz/play/live.php?mac=00:1A:79:BF:CC:88&stream=1116488&extension=ts&play_token=Q9SWj8vLvb
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Star_Movies_Select_HD.png" group-title="Movies2", Star Movies Select HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b55393cd147a54debaf2b0f2d82b5d9f:6b168db49241a78c1b423ab9a29409ef
-#EXTVLCOPT:http-user-agent=plaYtv/7.1.5 (Linux;Android 13) ExoPlayerLib/2.11.6
-https://jtvp.8088yyy.workers.dev/bpk-tv/Star_Movies_Select_HD_BTS/output/index.mpd|Referer=https://m3u.8088y.site/
+http://vpn.line-activation.xyz/play/live.php?mac=00:1A:79:BF:CC:88&stream=155729&extension=ts&play_token=m6tG21FhIb
 
 #EXTINF:-1 group-title="MOVIES2" tvg-logo="",HBO Canada 1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
