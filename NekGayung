@@ -377,13 +377,13 @@ https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/tmpzbbdj9y/
 #KODIPROP:inputstream.adaptive.license_key=09453ce820d65fbc675de3185f9e454c:98cff9600995fa381c76fdacf3c7edae
 https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash/enc/awxnrqkbo5/out/v1/716529a4091947b0877e6cb80dbd6ccb/cenc.mpd
 
-#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ESPN-1.png" group-title="SPORTS2",ESPN
+#EXTINF:-1 tvg-id="espn.us" tvg-name="ESPN" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ESPN-1.png" group-title="SPORTS2",ESPN HD
 http://bgdc.live:25461/joak18@yahoo.com/5643956/38226
 
-#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="http://onlytimewilltell.xyz:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="SPORTS2",ESPN2
+#EXTINF:-1 tvg-id="espn2.us" tvg-name="ESPN2" tvg-logo="http://onlytimewilltell.xyz:2086/images/017f41a2ef4ff9d39f45f680b88cd23b.png" group-title="SPORTS2",ESPN2 HD
 http://bgdc.live:25461/joak18@yahoo.com/5643956/38227
 
-#EXTINF:-1 tvg-id="espnnews.us" tvg-name="ESPNEWS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ESPNEWS_logo.png" group-title="SPORTS2",ESPNEWS
+#EXTINF:-1 tvg-id="espnnews.us" tvg-name="ESPNEWS" tvg-logo="https://cantseeus.com/wp-content/uploads/2023/10/ESPNEWS_logo.png" group-title="SPORTS2",ESPNEWS HD
 http://bgdc.live:25461/joak18@yahoo.com/5643956/38229
 
 #EXTINF:-1 tvg-id="US700005ID" tvg-chno="2904" group-title="SPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png",CBS Sports Network HD
