@@ -194,7 +194,7 @@ https://ngtv-live-cbj.gcdn.co/Content/DASH/Live/channel(bein1)/master.mpd
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="Sports2", SkySpMainEvHD
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/283053
+https://dlive.sx/watch.php?id=38
 
 #EXTINF:-1 tvg-id="SkySp.PL.HD.uk" tvg-logo="https://i.imgur.com/dUAIbXN.png" group-title="Sports2", SkySp PL HD
 https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fdwVAdW4mvcVhTjZJv_l9A&e=2074182388&scheme=http
@@ -203,7 +203,7 @@ https://bl.rutube.ru/livestream/e5bacac3b8e730791d4cab20ae81cd8f/index.m3u8?s=fd
 https://tmaxapp.site/8wirwjs76erftg/skysportsfootball.m3u8
 
 #EXTINF:-1 tvg-id="SkySp+.uk" tvg-logo="https://static.skyassets.com/contentstack/assets/blt143e20b03d72047e/bltf61726b1ee0de5d4/66857a7ebdc1c3b339ddc0d8/image_(5).png" group-title="Sports2", SkySp+
-http://aflaxtv.xyz:8080/mitrovic/19106b7cb4/308828
+https://dlive.sx/watch.php?id=36
 
 #EXTINF:-1 tvg-id="SkySp.Tennis.HD.uk" tvg-logo="https://i.imgur.com/1YbopYK.png" group-title="Sports2", SkySp Tennis HD
 https://bl.rutube.ru/livestream/5f5dc9d64b43dfc740e92f2bdf2b0d38/index.m3u8?s=wGBhgILq0m_ruFoAZOBOBw&e=2074182087&scheme=https
