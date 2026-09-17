@@ -336,7 +336,7 @@ https://us7.usaportal.workers.dev/https://fsly.stream.peacocktv.com/Content/CMAF
 EXTINF:-1 tvg-name="" tvg-logo="https://commerce.nbcuni.com/public/strapi-smart-microsite-uploads/Peacock_logo_high_050c0fd152.png" group-title="Sports2" , Peacock SPORTS
 https://cors-everywhere-wc8b4.ondigitalocean.app/https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc122ycnuy)/master.mpd
 
-EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qeWmruwuK5UG2CH2mMWoGVBQ13Dm9lu6xluKx-TsD3mls6OdRjjzdfk5zKDI3Gt58YIUYxVKe-lL" group-title="Sports2", USA (WEST)
@@ -344,11 +344,9 @@ https://us7.usaportal.workers.dev/https://fsly.stream.peacocktv.com/Content/CMAF
 
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qeWmruwuK5UG2CH2mMWoGVBQ13Dm9lu6xluKx-TsD3mls6OdRjjzdfk5zKDI3Gt58YIUYxVKe-lL" group-title="Sports2", USA
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTVLCOPT:http-origin=https://www.usanetwork.com/
-#EXTVLCOPT:http-referrer=https://www.usanetwork.com
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key={ "keys": [ { "kty": "oct", "k": "uGEiZUUcjEYvtrVa06a22A", "kid": "b-S1Z-ybRnqIigiWAMk_VQ" } ], "type": "temporary" }
-https://us7.usaportal.workers.dev/https://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-primary-v1/Content/Channel/4e41f6af-4b86-2aac-c351-c1250b14b344/DASH_ENC/master_5m.mpd?aws.sessionId=4bd064c7-cf13-4eb7-a0ba-a9672b3cbc24
+#KODIPROP:inputstream.adaptive.license_key=043ba1b4a2823fc4a6033178f3560431:684358d80874b55f9335c73126e4d44e
+https://us7.usaportal.workers.dev/https://fsly.stream.peacocktv.com/Content/CMAF_OL2-CTR-4s-v2/Live/channel(usa-east)/master.mpd
 
 #EXTINF:-1 group-title="SPORTS2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png",FS1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
