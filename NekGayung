@@ -342,12 +342,13 @@ EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/
 #EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qeWmruwuK5UG2CH2mMWoGVBQ13Dm9lu6xluKx-TsD3mls6OdRjjzdfk5zKDI3Gt58YIUYxVKe-lL" group-title="Sports2", USA (WEST)
 https://us7.usaportal.workers.dev/https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qeWmruwuK5UG2CH2mMWoGVBQ13Dm9lu6xluKx-TsD3mls6OdRjjzdfk5zKDI3Gt58YIUYxVKe-lL" group-title="Sports2", USA (WEST)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=333962e3e1383529867a9a0e28a5e5d1:5d3fcbed53749ee622ed0e64f31c1cbf
-https://us7.usaportal.workers.dev/https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
-
+#EXTINF:-1 tvg-logo="https://lh3.googleusercontent.com/qeWmruwuK5UG2CH2mMWoGVBQ13Dm9lu6xluKx-TsD3mls6OdRjjzdfk5zKDI3Gt58YIUYxVKe-lL" group-title="Sports2", USA
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTVLCOPT:http-origin=https://www.usanetwork.com/
+#EXTVLCOPT:http-referrer=https://www.usanetwork.com
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"6fe4b567ec9b467a888a089600c93f55":"b8612265451c8c462fb6b55ad3a6b6d8"}
+https://us7.usaportal.workers.dev/http://usanetwork.mt.linear.viewlift.com/v1/dash/dfe581e0a446a1e548014078b2d81b62b917979d/usanetwork-linear-oneapp-dash-primary-v1/Content/Channel/4e41f6af-4b86-2aac-c351-c1250b14b344/DASH_ENC/master_5m.mpd?aws.sessionId=4bd064c7-cf13-4eb7-a0ba-a9672b3cbc24
 
 #EXTINF:-1 group-title="SPORTS2" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/FOX_Sports_1_US.png",FS1 HD
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
