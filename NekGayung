@@ -216,6 +216,11 @@ http://136.239.158.18:6610/001/2/ch00000090990000001098/manifest.mpd?AuthInfo=v8
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/russel/images/e/eb/Solar_Sports_Logo_2022.png/revision/latest?scale-to-width-down/250?cb=20211226131005" group-title="SPORTS2", Solar Sports
 http://136.239.173.26:6610/001/2/ch00000090990000001081/manifest.mpd?AuthInfo=v87HD9rEhwHiAdYyrP20Tg5pgSMSITY%2FHYvvCWJRp%2BpTfGIKxFqRM2tu30PzY%2FKkytokK1MIobcue1ImXa0ZEA%3D%3D&version=v1.0&BreakPoint=0&virtualDomain=001.live_hls.zte.com&programid=ch00000000000000001087&contentid=ch00000000000000001087&videoid=ch00000090990000001081&recommendtype=0&userid=1572318406990&boid=001&stbid=02%3A00%3A00%3A00%3A00%3A00&terminalflag=1&profilecode=&usersessionid=O0NP6KUE17KXXX&NeedJITP=1&JITPMediaType=DASH&JITPDRMType=NO
 
+#EXTINF:-1 tvg-logo="" group-title="SPORTS2", Now Sports Premier League 1
+#EXTVLCOPT:http-referrer=https://dko29we9nm1rd.cloudfront.net/
+https://eventcdn02-nowe.akamaized.net/hls/CH621/index.m3u8
+
+
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mnAYZiQ.png" group-title="Sports2", SkySpMainEvHD
 https://dlive.sx/watch.php?id=38
 
