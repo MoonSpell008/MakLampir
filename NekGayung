@@ -703,37 +703,37 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash/enc/6otiglnptp/
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=22f24724b9ba4b35b43e24c51269f8d7:1b21bee9294b5037a638b7681d57029f
-https://ciades.providers.com.ar/ESPN/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/ESPN/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS3",ESPN 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0e01d045ccbf4e24ab49d294ff45930d:63558c6bf7670a8d06fd8150d258a6d5
-https://ciades.providers.com.ar/ESPN2/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/ESPN2/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS3",ESPN 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c4fb8e17ed194b7e816a370d15d65d86:2c7b7a4f26c8e055cbf1eb9d8b19aa81
-https://ciades.providers.com.ar/ESPN3/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/ESPN3/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS3",ESPN 4
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f2de1aa6403c425694b3262434c5fe61:1c7d6a5cbc59b8216aa8b7d4129861a0
-https://ciades.providers.com.ar/ESPN4/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/ESPN4/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS3",TNT Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=302c2d57aa5c444f86d427508c1c6714:0be2509f8befc2399b9fb7f236b63c7d
-https://ciades.providers.com.ar/TNT_SPORTS/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/TNT_SPORTS/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
 
 #EXTINF:-1 tvg-logo="" group-title="SPORTS3",TYC Sports
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=dbe265d99e9a4445a4a47bcac4ddc3d8:9cd1be2017b886e452443bec4e37e214
-https://ciades.providers.com.ar/TYC/index.mpd?token=Sf72kl98hw16kx40vb32qu63ñz61th25
+https://ciades.providers.com.ar/TYC/index.mpd?token=ekSXXI6K0deAr1xhtVNjTKEu6rHuWqCF
 
 #EXTINF:-1 group-title="SPORTS3",Claro Sports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
