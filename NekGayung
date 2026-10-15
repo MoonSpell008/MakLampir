@@ -401,7 +401,7 @@ http://85.237.89.160:9590/usa-s/ESPN-2-HD/index.m3u8
 http://bgdc.live:25461/joak18@yahoo.com/5643956/38229
 
 
-#EXTINF:-1 tvg-id="US700005ID" tvg-chno="2904" group-title="SPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png",CBS Sports Network HD
+#EXTINF:-1 tvg-id="US700005ID" tvg-chno="2904" group-title="SPORTS2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8a/CBS_Sports_Network_2016.png",CBS Sports Network Golazo
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d9623774ac5c8c351aafe97c5fe70267:5164e6d05164a2d65fa8fcc962aa4861
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/out/v1/5318821e2c3c44c2a439681b9aa86e9b/cenc.mpd
@@ -412,12 +412,12 @@ https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/rbem8rorcw/
 #KODIPROP:inputstream.adaptive.license_key=84077d18bcf234a42de3745be106a87f:aee3069c062ec8ee6bfdd32985f287ef
 https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/out/v1/066dd9325648468c9ecdc8b272370931/cenc.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS2", NFL NETWORK
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS2", NFL NETWORK HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b26a662a10074eb0756404c8e90e765a:76e376bd25f92bed939435d982f92d3f
 https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS2", NFL
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS2", NFL NETWORK
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
 #KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
@@ -468,7 +468,7 @@ https://live-pv-ta.amazon.fastly-edge.com/syd-nitro/live/clients/dash/enc/kkfdbi
 #EXTINF:-1 tvg-logo="https://freepngimg.com/thumb/ufc/70396-ufc-logo.png" group-title="SPORTS2",UFC
 https://otte.live.fly.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/8mxwjnh2te/out/v1/356704796c0c4bed81f67cd3518d0c8a/cenc.mpd
 
-#EXTINF:-1 tvg-logo="" group-title="SPORTS2", HBO BOXING
+#EXTINF:-1 tvg-logo="https://www.thefightcity.com/wp-content/uploads/2019/10/HBO-logo-image-1-300x192.jpg" group-title="SPORTS2", HBO BOXING
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/140.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a4b2fe10c9d62d32220e8ea2dceda6f9:e6e1173c892f7fbd60a37a76a78935cb
