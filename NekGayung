@@ -335,7 +335,7 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/k0duzgfejg/
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8c17752768447a2ff801b87f7a390781 : 90375b77c0f6d271caef3c8accd4f1ae
+#KODIPROP:inputstream.adaptive.license_key=8c17752768447a2ff801b87f7a390781:90375b77c0f6d271caef3c8accd4f1ae
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/48ywi9f1xa/out/v1/32245ff0035b471fa7470acd23a0bb42/cenc.mpd
 
 #EXTINF:-1 tvg-name="" tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/Eurosport_2_Spain.png" group-title="SPORTS2",EUROSPORT 2
@@ -343,7 +343,7 @@ https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/48ywi9f1xa/out/v1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9ada9d51e521ee51230960ef875b6f42 : a8d895925ccabb044a2c9fa636a764f3
+#KODIPROP:inputstream.adaptive.license_key=9ada9d51e521ee51230960ef875b6f42:a8d895925ccabb044a2c9fa636a764f3
 https://otte.cache.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/kbjpsludyv/out/v1/a2cf27ad758a47449c083e3166f1c3a5/cenc.mpd
 
 EXTINF:-1 tvg-logo="https://iili.io/KWCtSja.png" group-title="SPORTS2",Premier League TV
