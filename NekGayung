@@ -435,7 +435,7 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy
 https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
 
 #EXTM3U
-#EXTINF:-1 tvg-id="NBC.Sports.us" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/NBC_Sports_Now_logo.svg/revision/latest?cb=20250814101947" group-title="" , NBC SPORTS NOW
+#EXTINF:-1 tvg-id="NBC.Sports.us" group-title="SPORTS2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/NBC_Sports_Now_logo.svg/revision/latest?cb=20250814101947", NBC SPORTS NOW
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
