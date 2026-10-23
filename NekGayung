@@ -427,21 +427,6 @@ https://otte.live.fly.ww.aiv-cdn.net/dub-nitro/live/clients/dash/enc/2jbycgm3g3/
 #KODIPROP:inputstream.adaptive.license_key=b26a662a10074eb0756404c8e90e765a:76e376bd25f92bed939435d982f92d3f
 https://ac-009.live.p7s1video.net/e0e064c8/t_004/ran-nflnetwork-de-hd/cenc-default.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="" group-title="SPORTS2", NFL NETWORK
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.clearkey.alpha
-#KODIPROP:inputstream.adaptive.license_key=002007110c69a23803173b50eab05f23:590d6e8f4ca81319f9bb29104f571990
-https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s-v2/Live/channel(lc107a1ddy)/master.mpd
-https://cfrt.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(lc107a1ddy)/master.mpd
-
-#EXTM3U
-#EXTINF:-1 tvg-id="NBC.Sports.us" group-title="SPORTS2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/NBC_Sports_Now_logo.svg/revision/latest?cb=20250814101947", NBC SPORTS NOW
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=00459011b26524a673b0ced54cef0a8b:b31ded0e8a4cad5a36b6be06dae76f28
-https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL2-CTR-4s/Live/channel(nbcsportspeacock)/master.mpd
-
 #EXTINF:-1 group-title="SPORTS2" tvg-logo="",Tennis Channel HD
 http://23.237.104.106:8080/USA_TENNIS/index.m3u8
 
